@@ -6,7 +6,7 @@
 gcc -O0 -S fig1.c      
 rename fig1.s to fig1a.s
 ### Compile 1B
-gcc -O4 -S fig1.c
+gcc -O4 -S fig1.c          
 Rename fig1.s to fig1b.s
 
 ## Part 2
