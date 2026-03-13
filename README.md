@@ -16,7 +16,7 @@ gcc -O0 -S HelloWorld.c
 gcc -O0 -S HelloWorldCpp.cpp
 
 ## Part 3
-### Compile Figure 5
+### Compile Figure-5
 gcc -no-pie fig5.s fig5driver.c -o fig5
 ### Run
 ./fig5
